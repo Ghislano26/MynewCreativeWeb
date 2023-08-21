@@ -19,13 +19,13 @@ const myForm = document.getElementById('myForm');
         e.preventDefault();
       })  
 
-const headJs = document.getElementById("headJs");
-      headJs.addEventListener('mouseover', function(){
-         headJs.style.backgroundColor = "#122121"
-      })
-      headJs.addEventListener('mouseout', function(){
-         headJs.style.backgroundColor = "#cce1e1"
-      })
+// const headJs = document.getElementById("headJs");
+//       headJs.addEventListener('mouseover', function(){
+//          headJs.style.backgroundColor = "#122121"
+//       })
+//       headJs.addEventListener('mouseout', function(){
+//          headJs.style.backgroundColor = "#cce1e1"
+//       })
 
 const sectionImageProject = document.getElementById('sectionImageProject');
       sectionImageProject.addEventListener('mouseover', function(){
